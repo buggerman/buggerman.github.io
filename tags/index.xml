@@ -47,5 +47,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>fourth post</title>
+      <link>https://www.gijutsu.net/tags/fourth-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gijutsu.net/tags/fourth-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>still experimenting</title>
+      <link>https://www.gijutsu.net/tags/still-experimenting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gijutsu.net/tags/still-experimenting/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

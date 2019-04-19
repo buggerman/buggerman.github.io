@@ -71,4 +71,18 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>https://www.gijutsu.net/posts/the-fourth-post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gijutsu.net/tags/fourth-post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gijutsu.net/tags/still-experimenting/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
