@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gijutsu</title>
+    <link>https://www.gijutsu.net/</link>
+    <description>Recent content on Gijutsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2019 09:36:47 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.gijutsu.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>https://www.gijutsu.net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gijutsu.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.gijutsu.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gijutsu.net/about/</guid>
+      <description>Just a normal guy writing weird things I see as part of my job.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://www.gijutsu.net/posts/my-first-post/</link>
+      <pubDate>Fri, 19 Apr 2019 09:36:47 +0530</pubDate>
+      
+      <guid>https://www.gijutsu.net/posts/my-first-post/</guid>
+      <description>This is my first post. Let the experiment begin!</description>
+    </item>
+    
+  </channel>
+</rss>
