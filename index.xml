@@ -6,7 +6,7 @@
     <description>Recent content on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 09:36:47 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 11:52:16 +0530</lastBuildDate>
     
 	<atom:link href="https://www.gijutsu.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,15 @@
       
       <guid>https://www.gijutsu.net/about/</guid>
       <description>Just a normal guy writing weird things I see as part of my job.</description>
+    </item>
+    
+    <item>
+      <title>Second Test</title>
+      <link>https://www.gijutsu.net/posts/second-test/</link>
+      <pubDate>Fri, 19 Apr 2019 11:52:16 +0530</pubDate>
+      
+      <guid>https://www.gijutsu.net/posts/second-test/</guid>
+      <description>This is a second test. I have deployed the website and it seems like it&amp;rsquo;s good to go!</description>
     </item>
     
     <item>
