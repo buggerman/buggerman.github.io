@@ -6,7 +6,7 @@
     <description>Recent content on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 21:05:40 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 22:07:09 +0530</lastBuildDate>
     
 	<atom:link href="https://www.gijutsu.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,15 @@
       
       <guid>https://www.gijutsu.net/about/</guid>
       <description>Just a normal guy writing weird things I see as part of my job.</description>
+    </item>
+    
+    <item>
+      <title>My Seventh Post</title>
+      <link>https://www.gijutsu.net/posts/my-seventh-post/</link>
+      <pubDate>Fri, 19 Apr 2019 22:07:09 +0530</pubDate>
+      
+      <guid>https://www.gijutsu.net/posts/my-seventh-post/</guid>
+      <description>I think I have spammed a lot to this website. Let&amp;rsquo;s give it a rest.</description>
     </item>
     
     <item>
