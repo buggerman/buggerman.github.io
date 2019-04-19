@@ -6,7 +6,7 @@
     <description>Recent content on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 20:06:44 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 21:05:40 +0530</lastBuildDate>
     
 	<atom:link href="https://www.gijutsu.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,15 @@
       
       <guid>https://www.gijutsu.net/about/</guid>
       <description>Just a normal guy writing weird things I see as part of my job.</description>
+    </item>
+    
+    <item>
+      <title>My Sixth Post</title>
+      <link>https://www.gijutsu.net/posts/my-sixth-post/</link>
+      <pubDate>Fri, 19 Apr 2019 21:05:40 +0530</pubDate>
+      
+      <guid>https://www.gijutsu.net/posts/my-sixth-post/</guid>
+      <description>I guess I still don&amp;rsquo;t understand Git really well.</description>
     </item>
     
     <item>
