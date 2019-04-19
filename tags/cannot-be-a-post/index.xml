@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cannot be a post on Gijutsu</title>
+    <link>https://www.gijutsu.net/tags/cannot-be-a-post/</link>
+    <description>Recent content in cannot be a post on Gijutsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2019 23:27:19 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.gijutsu.net/tags/cannot-be-a-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Eighth Test</title>
+      <link>https://www.gijutsu.net/posts/my-eighth-test/</link>
+      <pubDate>Fri, 19 Apr 2019 23:27:19 +0530</pubDate>
+      
+      <guid>https://www.gijutsu.net/posts/my-eighth-test/</guid>
+      <description>I can&amp;rsquo;t possibly call this a post anymore. This is just a test.</description>
+    </item>
+    
+  </channel>
+</rss>

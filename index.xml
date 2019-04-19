@@ -6,7 +6,7 @@
     <description>Recent content on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 22:07:09 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 23:27:19 +0530</lastBuildDate>
     
 	<atom:link href="https://www.gijutsu.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,15 @@
       
       <guid>https://www.gijutsu.net/about/</guid>
       <description>Just a normal guy writing weird things I see as part of my job.</description>
+    </item>
+    
+    <item>
+      <title>My Eighth Test</title>
+      <link>https://www.gijutsu.net/posts/my-eighth-test/</link>
+      <pubDate>Fri, 19 Apr 2019 23:27:19 +0530</pubDate>
+      
+      <guid>https://www.gijutsu.net/posts/my-eighth-test/</guid>
+      <description>I can&amp;rsquo;t possibly call this a post anymore. This is just a test.</description>
     </item>
     
     <item>
