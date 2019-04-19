@@ -1,0 +1,23 @@
+baseURL = "https://www.gijutsu.net"
+languageCode = "en-us"
+title = "Gijutsu"
+theme = "kiera"
+
+# kiera specific config
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "buggerman"       #Author name
+    github = "buggerman"     #Github username
+    gitlab = ""     #Gitlab username
+    linkedin = ""   #LinkedIn username
+    facebook = ""   #Facebook username
+    twitter = ""    #Twitter username
+    instagram = ""  #Instagram username
+
+[params]
+    tagline = "Confessions of a Cybersecurity Consultant"
+
