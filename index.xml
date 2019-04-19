@@ -2,104 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gijutsu</title>
-    <link>https://www.gijutsu.net/</link>
+    <link>/</link>
     <description>Recent content on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2019 23:27:19 +0530</lastBuildDate>
     
-	<atom:link href="https://www.gijutsu.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Home</title>
-      <link>https://www.gijutsu.net/</link>
+      <link>/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gijutsu.net/</guid>
+      <guid>/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://www.gijutsu.net/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gijutsu.net/about/</guid>
+      <guid>/about/</guid>
       <description>Just a normal guy writing weird things I see as part of my job.</description>
     </item>
     
     <item>
       <title>My Eighth Test</title>
-      <link>https://www.gijutsu.net/posts/my-eighth-test/</link>
+      <link>/posts/my-eighth-test/</link>
       <pubDate>Fri, 19 Apr 2019 23:27:19 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/my-eighth-test/</guid>
+      <guid>/posts/my-eighth-test/</guid>
       <description>I can&amp;rsquo;t possibly call this a post anymore. This is just a test.</description>
     </item>
     
     <item>
       <title>My Seventh Post</title>
-      <link>https://www.gijutsu.net/posts/my-seventh-post/</link>
+      <link>/posts/my-seventh-post/</link>
       <pubDate>Fri, 19 Apr 2019 22:07:09 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/my-seventh-post/</guid>
+      <guid>/posts/my-seventh-post/</guid>
       <description>I think I have spammed a lot to this website. Let&amp;rsquo;s give it a rest.</description>
     </item>
     
     <item>
       <title>My Sixth Post</title>
-      <link>https://www.gijutsu.net/posts/my-sixth-post/</link>
+      <link>/posts/my-sixth-post/</link>
       <pubDate>Fri, 19 Apr 2019 21:05:40 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/my-sixth-post/</guid>
+      <guid>/posts/my-sixth-post/</guid>
       <description>I guess I still don&amp;rsquo;t understand Git really well.</description>
     </item>
     
     <item>
       <title>My Fifth Post</title>
-      <link>https://www.gijutsu.net/posts/my-fifth-post/</link>
+      <link>/posts/my-fifth-post/</link>
       <pubDate>Fri, 19 Apr 2019 20:06:44 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/my-fifth-post/</guid>
+      <guid>/posts/my-fifth-post/</guid>
       <description>I guess I am getting the hang of it now. Git is something great and this is a great opportunity to understand and appreciate how well it works.
 Looking forward to my adventures now.</description>
     </item>
     
     <item>
       <title>The fourth post</title>
-      <link>https://www.gijutsu.net/posts/the-fourth-post/</link>
+      <link>/posts/the-fourth-post/</link>
       <pubDate>Fri, 19 Apr 2019 19:01:52 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/the-fourth-post/</guid>
+      <guid>/posts/the-fourth-post/</guid>
       <description>So this is the fourth post on the site and I am still learning new stuff.
 Wordpress was easier for sure but this is more efficient in the long run, I guess.</description>
     </item>
     
     <item>
       <title>My Third Post</title>
-      <link>https://www.gijutsu.net/posts/my-third-post/</link>
+      <link>/posts/my-third-post/</link>
       <pubDate>Fri, 19 Apr 2019 13:16:52 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/my-third-post/</guid>
+      <guid>/posts/my-third-post/</guid>
       <description>Still testing. Lots of new stuff to learn here.</description>
     </item>
     
     <item>
       <title>Second Test</title>
-      <link>https://www.gijutsu.net/posts/second-test/</link>
+      <link>/posts/second-test/</link>
       <pubDate>Fri, 19 Apr 2019 11:52:16 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/second-test/</guid>
+      <guid>/posts/second-test/</guid>
       <description>This is a second test. I have deployed the website and it seems like it&amp;rsquo;s good to go!</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://www.gijutsu.net/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Fri, 19 Apr 2019 09:36:47 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>This is my first post. Let the experiment begin!</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>still experimenting on Gijutsu</title>
-    <link>https://www.gijutsu.net/tags/still-experimenting/</link>
+    <link>/tags/still-experimenting/</link>
     <description>Recent content in still experimenting on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2019 21:05:40 +0530</lastBuildDate>
     
-	<atom:link href="https://www.gijutsu.net/tags/still-experimenting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/still-experimenting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Sixth Post</title>
-      <link>https://www.gijutsu.net/posts/my-sixth-post/</link>
+      <link>/posts/my-sixth-post/</link>
       <pubDate>Fri, 19 Apr 2019 21:05:40 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/my-sixth-post/</guid>
+      <guid>/posts/my-sixth-post/</guid>
       <description>I guess I still don&amp;rsquo;t understand Git really well.</description>
     </item>
     
     <item>
       <title>The fourth post</title>
-      <link>https://www.gijutsu.net/posts/the-fourth-post/</link>
+      <link>/posts/the-fourth-post/</link>
       <pubDate>Fri, 19 Apr 2019 19:01:52 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/the-fourth-post/</guid>
+      <guid>/posts/the-fourth-post/</guid>
       <description>So this is the fourth post on the site and I am still learning new stuff.
 Wordpress was easier for sure but this is more efficient in the long run, I guess.</description>
     </item>

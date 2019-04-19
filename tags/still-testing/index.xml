@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>still testing on Gijutsu</title>
-    <link>https://www.gijutsu.net/tags/still-testing/</link>
+    <link>/tags/still-testing/</link>
     <description>Recent content in still testing on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2019 13:16:52 +0530</lastBuildDate>
     
-	<atom:link href="https://www.gijutsu.net/tags/still-testing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/still-testing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Third Post</title>
-      <link>https://www.gijutsu.net/posts/my-third-post/</link>
+      <link>/posts/my-third-post/</link>
       <pubDate>Fri, 19 Apr 2019 13:16:52 +0530</pubDate>
       
-      <guid>https://www.gijutsu.net/posts/my-third-post/</guid>
+      <guid>/posts/my-third-post/</guid>
       <description>Still testing. Lots of new stuff to learn here.</description>
     </item>
     
