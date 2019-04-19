@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>more test on Gijutsu</title>
-    <link>/tags/more-test/</link>
+    <link>https://www.gijutsu.net/tags/more-test/</link>
     <description>Recent content in more test on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2019 20:06:44 +0530</lastBuildDate>
     
-	<atom:link href="/tags/more-test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gijutsu.net/tags/more-test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Fifth Post</title>
-      <link>/posts/my-fifth-post/</link>
+      <link>https://www.gijutsu.net/posts/my-fifth-post/</link>
       <pubDate>Fri, 19 Apr 2019 20:06:44 +0530</pubDate>
       
-      <guid>/posts/my-fifth-post/</guid>
+      <guid>https://www.gijutsu.net/posts/my-fifth-post/</guid>
       <description>I guess I am getting the hang of it now. Git is something great and this is a great opportunity to understand and appreciate how well it works.
 Looking forward to my adventures now.</description>
     </item>
