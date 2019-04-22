@@ -6,7 +6,7 @@
     <description>Recent content on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 23:27:19 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2019 20:35:03 +0530</lastBuildDate>
     
 	<atom:link href="https://www.gijutsu.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,16 @@
       
       <guid>https://www.gijutsu.net/about/</guid>
       <description>Just a normal guy writing weird things I see as part of my job.</description>
+    </item>
+    
+    <item>
+      <title>The Ninth Post Image Test</title>
+      <link>https://www.gijutsu.net/posts/the-ninth-post-image-test/</link>
+      <pubDate>Mon, 22 Apr 2019 20:35:03 +0530</pubDate>
+      
+      <guid>https://www.gijutsu.net/posts/the-ninth-post-image-test/</guid>
+      <description>So in this post, I am going to try and add an image. I know this sounds silly but I need to understand what I am doing here. This isn&amp;rsquo;t as straightforward as Wordpress you know.
+Let&amp;rsquo;s see how it looks.</description>
     </item>
     
     <item>
