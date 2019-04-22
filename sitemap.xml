@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.gijutsu.net/posts/</loc>
-    <lastmod>2019-04-19T23:27:19+05:30</lastmod>
+    <lastmod>2019-04-22T20:35:03+05:30</lastmod>
   </url>
   
   <url>
@@ -16,20 +16,49 @@
   </url>
   
   <url>
+    <loc>https://www.gijutsu.net/categories/</loc>
+    <lastmod>2019-04-22T20:35:03+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gijutsu.net/</loc>
-    <lastmod>2019-04-19T23:27:19+05:30</lastmod>
+    <lastmod>2019-04-22T20:35:03+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gijutsu.net/tags/</loc>
+    <lastmod>2019-04-22T20:35:03+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gijutsu.net/posts/the-ninth-post-image-test/</loc>
+    <lastmod>2019-04-22T20:35:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gijutsu.net/categories/with-image/</loc>
+    <lastmod>2019-04-22T20:35:03+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gijutsu.net/tags/still-experimenting/</loc>
+    <lastmod>2019-04-22T20:35:03+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gijutsu.net/tags/testing-with-images/</loc>
+    <lastmod>2019-04-22T20:35:03+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gijutsu.net/posts/my-eighth-test/</loc>
     <lastmod>2019-04-19T23:27:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gijutsu.net/tags/</loc>
-    <lastmod>2019-04-19T23:27:19+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -52,12 +81,6 @@
   <url>
     <loc>https://www.gijutsu.net/posts/my-sixth-post/</loc>
     <lastmod>2019-04-19T21:05:40+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gijutsu.net/tags/still-experimenting/</loc>
-    <lastmod>2019-04-19T21:05:40+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -118,11 +141,6 @@
   <url>
     <loc>https://www.gijutsu.net/tags/init/</loc>
     <lastmod>2019-04-19T09:36:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gijutsu.net/categories/</loc>
     <priority>0</priority>
   </url>
   
