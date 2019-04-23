@@ -5,19 +5,19 @@
   <url>
     <loc>https://www.gijutsu.net/posts/</loc>
     <lastmod>2019-04-22T20:35:03+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.gijutsu.net/</loc>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.gijutsu.net/about/</loc>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
@@ -42,7 +42,7 @@
   <url>
     <loc>https://www.gijutsu.net/posts/the-ninth-post-image-test/</loc>
     <lastmod>2019-04-22T20:35:03+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
@@ -67,7 +67,7 @@
   <url>
     <loc>https://www.gijutsu.net/posts/my-eighth-test/</loc>
     <lastmod>2019-04-19T23:27:19+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
@@ -80,7 +80,7 @@
   <url>
     <loc>https://www.gijutsu.net/posts/my-seventh-post/</loc>
     <lastmod>2019-04-19T22:07:09+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
@@ -93,14 +93,14 @@
   <url>
     <loc>https://www.gijutsu.net/posts/my-sixth-post/</loc>
     <lastmod>2019-04-19T21:05:40+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.gijutsu.net/posts/my-fifth-post/</loc>
     <lastmod>2019-04-19T20:06:44+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
@@ -113,7 +113,7 @@
   <url>
     <loc>https://www.gijutsu.net/posts/the-fourth-post/</loc>
     <lastmod>2019-04-19T19:01:52+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
@@ -126,7 +126,7 @@
   <url>
     <loc>https://www.gijutsu.net/posts/my-third-post/</loc>
     <lastmod>2019-04-19T13:16:52+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
@@ -139,7 +139,7 @@
   <url>
     <loc>https://www.gijutsu.net/posts/second-test/</loc>
     <lastmod>2019-04-19T11:52:16+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
@@ -152,7 +152,7 @@
   <url>
     <loc>https://www.gijutsu.net/posts/my-first-post/</loc>
     <lastmod>2019-04-19T09:36:47+05:30</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
