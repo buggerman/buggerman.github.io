@@ -6,7 +6,7 @@
     <description>Recent content on Gijutsu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2019 20:35:03 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2019 10:41:11 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gijutsu.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,15 @@
 Let&amp;rsquo;s complicate things like no one has done before. Let&amp;rsquo;s tinker with stability. Let&amp;rsquo;s fix everything that isn&amp;rsquo;t broken.
 Wouldn&amp;rsquo;t want to make things too easy now, would we?
 Stick around.</description>
+    </item>
+    
+    <item>
+      <title>My Tenth Post Using a Cloud Server</title>
+      <link>https://www.gijutsu.net/posts/my-tenth-post-using-a-cloud-server/</link>
+      <pubDate>Tue, 23 Apr 2019 10:41:11 +0000</pubDate>
+      
+      <guid>https://www.gijutsu.net/posts/my-tenth-post-using-a-cloud-server/</guid>
+      <description>Ok so I am trying to get this to run using a remote server. Looks fine I guess.</description>
     </item>
     
     <item>
