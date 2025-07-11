@@ -1,15 +1,15 @@
 /* Modern Portfolio Styles */
 :root {
-    --primary-color: #a7c7e7;
-    --secondary-color: #b19cd9;
-    --accent-color: #f7b2ad;
-    --text-primary: #5a5a5a;
-    --text-secondary: #8a8a8a;
-    --background-color: #faf8f5;
-    --surface-color: #f0f4f8;
-    --border-color: #e8e0d6;
-    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.08);
-    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08);
+    --primary-color: #87ceeb;
+    --secondary-color: #dda0dd;
+    --accent-color: #ffa07a;
+    --text-primary: #2c3e50;
+    --text-secondary: #5d6d7e;
+    --background-color: #fffef7;
+    --surface-color: #f8f9fa;
+    --border-color: #e3d5ca;
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
 
 * {
